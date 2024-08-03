@@ -1,0 +1,19 @@
+<style>
+body {
+  background-image: url('https://media.istockphoto.com/id/1430471647/photo/3d-stopwatch-icon-in-minimalistic-cartoon-style-timer-illustration-on-isolated-on-white.jpg?s=612x612&w=0&k=20&c=tMfr3U6zxy_9ZnDWfEDpeWvKeCt8TMFuAAFfsn2FwGQ=');
+}
+
+.bg {
+    background-image: url("https://media.istockphoto.com/id/1430471647/photo/3d-stopwatch-icon-in-minimalistic-cartoon-style-timer-illustration-on-isolated-on-white.jpg?s=612x612&w=0&k=20&c=tMfr3U6zxy_9ZnDWfEDpeWvKeCt8TMFuAAFfsn2FwGQ=");
+  
+    height: 100%;
+    width: 100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.container {
+    text-align: center;
+}
+</style>
